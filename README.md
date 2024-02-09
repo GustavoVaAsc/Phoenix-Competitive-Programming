@@ -3,5 +3,5 @@ Since my 2023 competitive programming grind was very messy, I really want to hav
 
 Team name with D...?
 
-ICPC Team: Quique and ???
-IEEE Team: Quique and ???
+ICPC Team: Quique and Wicho
+IEEE Team: Quique and ????
